@@ -1,5 +1,9 @@
 # Drive Dreams
 
+## Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=react,bootstrap,nodejs)](https://skillicons.dev)
+
 ## How to Run
 
 
